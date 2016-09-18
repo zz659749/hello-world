@@ -1,2 +1,3 @@
 # hello-world
-the first repository
+This is a new branch of the first repository.
+I am Zijian Zhang from SJU.
